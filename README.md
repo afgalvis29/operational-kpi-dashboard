@@ -1,48 +1,48 @@
-# Dashboard de KPIs Operativos – Looker Studio
-
-Visualización interactiva que muestra el desempeño de operadores, tiempos de respuesta y estado de clientes para facilitar la toma de decisiones en tiempo real.
-
----
-
-##  Objetivos clave
-
-- Integrar KPIs operativos críticos en un solo lugar.
-- Identificar clientes con atención pendiente a través de alertas visuales.
-- Facilitar una vista rápida para priorizar tareas y mejorar la eficiencia operativa.
-
+# Operational KPI Dashboard – Looker Studio
+Interactive visualization showing operator performance, response times, and client
+status to support real-time decision-making.
 
 ---
 
-##  Herramientas utilizadas
+## Key objectives
 
-- **Google Data Studio / Looker Studio** – Visualización de datos.
-- **Google Sheets** – Fuente de datos principal.
-- **Google Apps Script** – Automatización de carga de datos y actualizaciones
-- **Excel avanzado** – Limpieza, transformación y preprocesamiento de datos.
-
----
-
-##  Cómo funciona
-
-1. Los datos operativos se recogen y actualizan en una hoja de Google Sheets.
-2. El dashboard en Looker Studio toma esos datos y crea visualizaciones interactivas como gráficos de barras, tablas dinámicas y filtros.
-3. Los stakeholders pueden filtrar por fecha, operador o estado del cliente para obtener insights inmediatos.
+- Consolidate critical operational KPIs into a single view.
+- Identify clients with pending attention through visual alerts.
+- Enable quick prioritization of tasks to improve operational efficiency.
 
 ---
 
-##  Impacto
+## Tools used
 
-- Reducción del tiempo de análisis diario de 30 minutos a menos de 3 minutos.
-- Mejora en la priorización de casos urgentes, aumentando la velocidad de respuesta.
-- Mayor visibilidad y control sobre el desempeño operativo.
+- **Google Data Studio / Looker Studio** – Data visualization.
+- **Google Sheets** – Primary data source.
+- **Google Apps Script** – Data load automation and updates.
+- **Advanced Excel** – Data cleaning, transformation, and preprocessing.
 
 ---
 
-<img width="1192" height="884" alt="Captura dashboard resultados operativos" src="https://github.com/user-attachments/assets/46546d78-17db-490d-a762-90fc4a25a813" />
+## How it works
 
-##  ¿Quieres trabajar conmigo?
+1. Operational data is collected and updated in a Google Sheets spreadsheet.
+2. The Looker Studio dashboard pulls that data and builds interactive visualizations
+   including bar charts, pivot tables, and filters.
+3. Stakeholders can filter by date, operator, or client status to get immediate insights.
 
-Puedes enviarme un mensaje o conectar conmigo en LinkedIn:
+---
+
+## Impact
+
+- Reduced daily analysis time from 30 minutes to under 3 minutes.
+- Improved prioritization of urgent cases, increasing response speed.
+- Greater visibility and control over operational performance.
+
+---
+
+<img width="1192" height="884" alt="Operational KPI Dashboard screenshot" src="https://github.com/user-attachments/assets/46546d78-17db-490d-a762-90fc4a25a813" />
+
+## Want to work together?
+
+Feel free to reach out or connect with me on LinkedIn:
 
 - **Email:** afgalvis29@gmail.com
-- **LinkedIn:** (https://www.linkedin.com/in/andresgalvis99/)
+- **LinkedIn:** [linkedin.com/in/andresgalvis99](https://www.linkedin.com/in/andresgalvis99/)
